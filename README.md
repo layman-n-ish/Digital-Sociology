@@ -1,2 +1,2 @@
 # Digital-Sociology
-Where technology meets sociology 
+Articles written as a part of the coursework on Digital Sociology
